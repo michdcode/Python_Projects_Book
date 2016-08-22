@@ -1,0 +1,5 @@
+# Python_Projects_Book
+Projects from the book PYTHON PLAYGROUND: PYTHON PLAYGROUND: Geeky Projects for the Curious Programmer
+
+Project #1 - iTunes Library
+The project will take an iTunes library that you have downloaded as an XML file, and parse it. It will find any duplicate songs in the library and output a list of the duplicates into a text file. Also, it will take the duration data and rating data (if any) from each song and plot it using matplotlib. Here is a picture of the plot from the songs in one of my iTunes libraries:
