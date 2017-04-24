@@ -22,3 +22,22 @@ def get_number():
             return "Please enter an integer."
     except ValueError:
         print("Error: Please enter a number that is an integer.")
+
+
+def multiplication_table(num, ran):
+    """"Prints out multiples for a number up to a number."""
+
+    for numbers in range(1, ran + 1):
+        print('{0} x {1} = {2}'.format(num, numbers, num*numbers))
+
+
+def get_table_numbers():
+    try:
+        user_number = float(input("Enter a number: "))
+        multiple_limit = float(input("How many multiples?: "))
+        if user_number.is_integer() and multiple_limit.is_integer():
+            multiplication_table(int(user_number), int(multiple_limit))
+        else:
+            return "Both numbers must be integers."
+    except ValueError:
+        print("Error: Please enter a number that is an integer.")
