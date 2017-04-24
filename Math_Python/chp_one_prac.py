@@ -1,5 +1,6 @@
 from fractions import Fraction
 
+
 def factors(num):
     """Find the factors of a given number."""
 
