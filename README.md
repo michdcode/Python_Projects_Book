@@ -19,4 +19,5 @@ The project creates spirographs using python's turtle module, which is reminisce
 ## Projects from Doing Math with Python 
 
 Chapter One - Basic arithmetic functions using python.
+
 Chapter Two - Visualizing Data with Graphs using matplotlib. 
