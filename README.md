@@ -15,3 +15,8 @@ The project will take an iTunes library that you have downloaded as an XML file,
 ## Project #2 - Spirographs
 
 The project creates spirographs using python's turtle module, which is reminiscent of my childhood, both because I loved drawing spirographs and I loved programming in Logo. [Here is a picture of the spirographs created by the program.](https://github.com/michdcode/Python_Projects_Book/blob/master/spirograph/spiro_one.png) 
+
+## Projects from Doing Math with Python 
+
+Chapter One - Basic arithmetic functions using python.
+Chapter Two - Visualizing Data with Graphs using matplotlib. 
